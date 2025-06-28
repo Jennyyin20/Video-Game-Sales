@@ -38,7 +38,8 @@ This histogram illustrates how global sales vary with user score ratings. The ch
 This dashboard breaks down video game sales performance across different geographic regions. It enables comparisons between global and regional trends and helps identify key contributors by location. It supports market segmentation strategies by identifying which regions, developers, and platforms are most influential. It can guide localized marketing, regional licensing, and inventory decisions based on platform-region fit.
 
 <img width="1186" alt="image" src="https://github.com/user-attachments/assets/fcf93c66-e549-41e3-bc4f-6e6068a358aa" />
-![Uploading image.png…]()
+<img width="1186" alt="image" src="https://github.com/user-attachments/assets/5847aab6-6959-4600-95ab-5d95b7007ca3" />
+
 
 ### Interactive map with total regional sales
 A color-coded world map shows total sales by region and year. The dropdown filter allows switching between regions (e.g., Japan, North America, Europe). Circle sizes and colors highlight regional volumes, with North America and Europe showing the highest totals.
@@ -59,6 +60,7 @@ This project presents a multi-perspective analysis of global video game sales us
 * Which publishers consistently achieve high user satisfaction and strong sales
 * Regional sales patterns and platform preferences across Japan, North America, Europe, and other regions
 * The relationship between user ratings and commercial success
+
 and many more. Together, these visualizations provide a comprehensive view of the video game industry, helping stakeholders understand historical trends, identify top performers, and support data-driven decision-making in marketing, development, and distribution.
 
 
